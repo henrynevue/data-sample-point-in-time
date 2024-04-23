@@ -1,0 +1,6 @@
+table,description
+pdl_company_base,basic info on the company
+market_caps,the company's market cap over time
+company_point_in_time,a view of the company's headcount over time 
+hires,a list of hires the company has made
+departures,a list of departures from the company

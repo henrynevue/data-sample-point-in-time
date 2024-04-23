@@ -1,0 +1,4 @@
+ticker,display_name,website,linkedin_url,founded,industry,ipo_date,location_name,location_metro,location_region,location_country,location_continent
+BOX,Box,box.com,linkedin.com/company/box,2005,internet,2015-01,"redwood city, california, united states","san francisco, california",california,united states,north america
+DBX,Dropbox,dropbox.com,linkedin.com/company/dropbox,2007,internet,2018-03,"san francisco, california, united states","san francisco, california",california,united states,north america
+SNOW,Snowflake Computing,snowflake.com,linkedin.com/company/snowflake-computing,2012,computer software,2020-09,"san mateo, california, united states","san francisco, california",california,united states,north america
